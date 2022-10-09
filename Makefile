@@ -11,4 +11,9 @@ format:
 lint:
 	pylint --disable=R,C *.py
 
+container-lint:
+	docker run --rm -i hadolint/hadolint < Dockerfile
+
+refactor: format lint
+
 all: install lint test
