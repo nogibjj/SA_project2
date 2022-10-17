@@ -1,5 +1,5 @@
-# Project 2: Bash command-line tool to clean and truncate data
 [![Python application test with Github Actions](https://github.com/nogibjj/SA_project2/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/SA_project2/actions/workflows/main.yml)
+# Project 2: Bash command-line tool to clean and truncate data
 The key objective of this project was to build a bash command-line tool that performs a useful data preparation task such as truncating data, sortiung it, cleaning data, or doing ETL. 
 
 ## Purpose and Motivation
